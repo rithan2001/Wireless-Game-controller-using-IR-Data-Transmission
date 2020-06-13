@@ -1,4 +1,4 @@
-# Wireless Gesture Controlled Game Controller
+# Wireless  Game Controller using IR Data transmission 
 
 ## Step by Step process 
 + IR Transmission code is complete.
