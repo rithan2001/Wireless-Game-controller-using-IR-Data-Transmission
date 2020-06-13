@@ -1,11 +1,6 @@
 # Wireless Gesture Controlled Game Controller
 
-
-## Challenges:
-+ Controlling can be further improvised.
-+ To make sure that during workshop, no signal should interfere with the other TSOP present over there.
-
-## Progress till date:
+## Step by Step process 
 + IR Transmission code is complete.
 + TSOP decoding is complete.
 + Accelerometer interfacing is done.
@@ -34,6 +29,3 @@ NOTE: Basic objective of the prototype has been achived. Now this need a
 + Breadboard
 + PCBs
 
-
-
-## Repository Organized.
